@@ -18,4 +18,3 @@ describe('SignUp Controller', () => {
         expect(httpResponse.statusCode).toBe(400)
     });
 });
-

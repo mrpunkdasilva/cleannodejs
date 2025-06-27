@@ -1,0 +1,89 @@
+{
+    "checksum": "c1feeaa1b0c31ebfa6266bfec64e4c98726a3996a3828738d26b9c21a71fe243",
+    "data": {
+    "id": "37699a51-5a63-437b-aee0-e2d861a29f38",
+    "createdAt": 1750801500913,
+    "updatedAt": 1750801504482,
+    "title": "Clarification Request on Programming",
+    "messages": [
+        {
+            "id": "3f9aa0e0-3bab-4e05-aa58-d1f03af299c4",
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "ij"
+                }
+            ],
+            "context": {
+                "codebaseEnabled": true,
+                "ragFiles": [
+                    {
+                        "path": "package.json",
+                        "fsPath": "/home/mrpunkdasilva/WebstormProjects/cleannodejs/package.json",
+                        "sources": []
+                    },
+                    {
+                        "path": ".gitignore",
+                        "fsPath": "/home/mrpunkdasilva/WebstormProjects/cleannodejs/.gitignore",
+                        "sources": []
+                    }
+                ],
+                "rerankedFiles": [],
+                "usedFilePaths": []
+            },
+            "createdAt": 1750801500914,
+            "isInternal": false,
+            "rawContent": {
+                "type": "doc",
+                "content": [
+                    {
+                        "type": "paragraph",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "ij"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "525258d2-d83a-41fe-abee-1789c0611290",
+            "role": "assistant",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "It seems like your message is incomplete or unclear. Could you please provide more details or clarify your question? If you have a specific issue or question related to JSON or any other programming topic, feel free to share more information so I can assist you better."
+                }
+            ],
+            "context": {
+                "codebaseEnabled": true,
+                "ragFiles": [
+                    {
+                        "path": "package.json",
+                        "fsPath": "/home/mrpunkdasilva/WebstormProjects/cleannodejs/package.json",
+                        "sources": []
+                    },
+                    {
+                        "path": ".gitignore",
+                        "fsPath": "/home/mrpunkdasilva/WebstormProjects/cleannodejs/.gitignore",
+                        "sources": []
+                    }
+                ],
+                "rerankedFiles": [],
+                "usedFilePaths": []
+            },
+            "createdAt": 1750801504482,
+            "isInternal": false
+        }
+    ],
+    "isAgent": false,
+    "isNameGenerated": true,
+    "isCustomAgent": false,
+    "isUnitTestsAgent": false,
+    "isE2EAgent": false,
+    "autoApply": false
+}
+}

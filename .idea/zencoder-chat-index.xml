@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ai.zencoder.plugin.chat.index">
+    <option name="activeChatId" value="02e0d130-f5b4-491d-a0d5-5eb6e4532a20" />
+    <option name="chatMetadata" value="{&quot;02e0d130-f5b4-491d-a0d5-5eb6e4532a20&quot;:{&quot;id&quot;:&quot;02e0d130-f5b4-491d-a0d5-5eb6e4532a20&quot;,&quot;title&quot;:&quot;Desenvolvimento de Software Assistido&quot;,&quot;createdAt&quot;:1750801521301,&quot;updatedAt&quot;:1750812121034,&quot;isAgent&quot;:true,&quot;isNameGenerated&quot;:true,&quot;messageCount&quot;:28,&quot;lastMessagePreview&quot;:&quot;Rate limit exceeded. You can try again on June 25 at 16:59.&quot;},&quot;37699a51-5a63-437b-aee0-e2d861a29f38&quot;:{&quot;id&quot;:&quot;37699a51-5a63-437b-aee0-e2d861a29f38&quot;,&quot;title&quot;:&quot;Clarification Request on Programming&quot;,&quot;createdAt&quot;:1750801500913,&quot;updatedAt&quot;:1750801504482,&quot;isNameGenerated&quot;:true,&quot;messageCount&quot;:2,&quot;lastMessagePreview&quot;:&quot;It seems like your message is incomplete or unclear. Could you please provide more details or clarif...&quot;},&quot;7cf747e1-17f9-41f4-bbdb-79a013e5b57e&quot;:{&quot;id&quot;:&quot;7cf747e1-17f9-41f4-bbdb-79a013e5b57e&quot;,&quot;title&quot;:&quot;oi&quot;,&quot;createdAt&quot;:1750801490283,&quot;updatedAt&quot;:1750801490285,&quot;isAgent&quot;:true,&quot;messageCount&quot;:1,&quot;lastMessagePreview&quot;:&quot;oi&quot;}}" />
+  </component>
+</project>

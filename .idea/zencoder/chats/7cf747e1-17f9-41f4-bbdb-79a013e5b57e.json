@@ -1,0 +1,45 @@
+{
+    "checksum": "701d328bad21236f8b1225897606ed585848787ba56972c4e7730295afa8e9d4",
+    "data": {
+    "id": "7cf747e1-17f9-41f4-bbdb-79a013e5b57e",
+    "createdAt": 1750801490283,
+    "updatedAt": 1750801490285,
+    "title": "oi",
+    "messages": [
+        {
+            "id": "79664edb-e980-49cd-9338-8ef6c2722031",
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "oi"
+                }
+            ],
+            "context": {
+                "codebaseEnabled": true
+            },
+            "createdAt": 1750801490285,
+            "isInternal": false,
+            "rawContent": {
+                "type": "doc",
+                "content": [
+                    {
+                        "type": "paragraph",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "oi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "isAgent": true,
+    "isCustomAgent": false,
+    "isUnitTestsAgent": false,
+    "isE2EAgent": false,
+    "autoApply": false
+}
+}
